@@ -1,16 +1,20 @@
-# hola_mundo
+# Taller 1 (StatefulWidget y setState)
 
-A new Flutter project.
+## Descripcion
+Aplicacion Flutter que demuestra el uso de StatefulWidget, setState() y manejo de estado para cambiar dinamicamente el título de la AppBar.
 
-## Getting Started
+## Estudiante
+- **Nombre:** Juan Camilo Mena Ceron
+- **Codigo:** 230221050
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+- StatefulWidget con setState()
+- AppBar con título dinamico
+- SnackBar al cambiar titulo
+- Imagenes Network y Asset
+- Container decorado
+- ListView con elementos
+- Diseño responsive con Column y Row
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ejecucion
+Todo se ejecuto como en las clases, primero se inicia el dispositivo desde la parte inferior derecha y posterior a esto se le da al boton de ejecion.
