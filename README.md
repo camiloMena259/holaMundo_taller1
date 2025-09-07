@@ -22,3 +22,10 @@ Todo se ejecuto como en las clases, primero se inicia el dispositivo desde la pa
 ## Captura 1
 ![65147449-8e4c-4717-b5a8-9e2ac4a6345f](https://github.com/user-attachments/assets/81453979-9f52-46ff-ab0d-7c459f57eb89)
 
+## Captura 2
+![18868527-435b-4a2a-a36b-05123188bca7](https://github.com/user-attachments/assets/33d91260-de94-4318-9e70-909b4988615d)
+
+## Captura 3
+![1a749e61-acd9-411a-984e-95d00ccc4c94](https://github.com/user-attachments/assets/0c2bc394-05a4-49cc-9754-85deddc68ef9)
+
+
