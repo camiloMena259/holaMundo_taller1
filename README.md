@@ -28,4 +28,31 @@ Todo se ejecuto como en las clases, primero se inicia el dispositivo desde la pa
 ## Captura 3
 ![1a749e61-acd9-411a-984e-95d00ccc4c94](https://github.com/user-attachments/assets/0c2bc394-05a4-49cc-9754-85deddc68ef9)
 
+# Taller 2 : Navegación con go_router y ciclo de vida
+
+## Descripción
+Aplicación Flutter que demuestra:
+- Navegación con `go_router` (`go`, `push`, `replace`)
+- Paso de parámetros (path + query)
+- Widgets: `GridView`, `TabBar` + `TabBarView`, y `ExpansionPanelList`
+- Evidencia del ciclo de vida (`initState`, `didChangeDependencies`, `build`, `setState`, `dispose`) mediante `print()` en consola
+
+## Rutas
+- `/` (Home)  
+- `/detail/:id` (DetailPage) — recibe `id` y query param `from`  
+- `/widgets` (Widgets demo con Tabs)
+
+## Ejecutar
+1. `flutter pub get`  
+2. `flutter run -d chrome` (o seleccionar un emulador/dispositivo)  
+3. Ver la consola para prints del ciclo de vida
+
+## Estructura
+- `lib/main.dart` — go_router config  
+- `lib/home_page.dart` — pantalla principal (GridView + botones go/push/replace)  
+- `lib/detail_page.dart` — pantalla destino (muestra parámetros)  
+- `lib/widgets_demo_screen.dart` — TabBar + TabBarView  
+- `lib/expansion_panel_demo.dart` — tercer widget  
+
+
 
